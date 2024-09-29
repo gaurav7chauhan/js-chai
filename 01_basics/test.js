@@ -1,6 +1,4 @@
-let isLoggedIn;
-
-let booleanIsLoggedIn = Boolean(isLoggedIn);
-
-console.log(booleanIsLoggedIn);
-console.log(typeof(booleanIsLoggedIn));
+console.log(undefined > 0)
+console.log(undefined == 0)
+console.log(undefined === 0)
+console.log(undefined >= 0)
