@@ -1,4 +1,7 @@
-const min = 10;
-const max = 20;
+const arr = [1, 33, 44, 343, 453];
 
-console.log(Math.floor(Math.random() * (max - min + 1) + min))
+const joinArr = arr.join()
+
+console.log(arr)
+
+console.log(typeof(joinArr))
