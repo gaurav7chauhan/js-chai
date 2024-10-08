@@ -14,4 +14,5 @@ console.log(course.courseName)
 
 const {courseName: topic, price, instructor} = course
 
-console.log(topic)
+console.log(topic) 
+980
